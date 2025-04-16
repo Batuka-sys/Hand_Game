@@ -3,6 +3,7 @@ export const walls = [
     { x: 100, y: 100, width: 200, height: 20 },  // Wall 1
     { x: 300, y: 100, width: 20, height: 200 },  // Wall 2
     { x: 150, y: 250, width: 150, height: 20 },  // Wall 3
+    { x: 250, y: 150, width: 20, height: 100 },
   ];
   
   export const goal = { x: 400, y: 300, width: 30, height: 30 };
